@@ -1,17 +1,17 @@
 div{
-    border-style: solid;
-    border-width: 5px;
     padding: 30px;
     border-color: green;
 }
 
 .container{
-    border-color: blue;
+    border-color: #28a4c9;
 }
 
 .row{
-    border-color: red;
+    
 }
+    
+
 .list-group-item{
     border:0;
     margin-bottom:30px;
@@ -19,10 +19,62 @@ div{
 }
 
 body{
-    background-image: url('http://tvnewsroom.org/wp-content/uploads/2012/09/Champs-League-610x422.jpg');
+    background-image: url('http://buildingskins.files.wordpress.com/2010/01/allianz_arena_wallpaper.jpg');
     background-size: cover;
 }
 
-#nametitle{
- font-family: cursive;   
+#name{
+ font-style: italic;
+ font-family: cursive;
+ font-size: 20px; 
+ 
+}
+
+p{
+ color: gold;
+}
+
+nav{
+    font: cursive ;
+}
+
+div{
+    color: #222; 
+}
+
+.col-xs-9{
+    color: gold;
+    font-size: 18px;
+}
+
+.p{
+    font-size: 26px;
+    font-family: fantasy;
+}
+
+#html{
+    width: 150px;
+    height:auto;
+}
+
+#css{
+    width: 150px;
+    height: auto;
+}
+
+#tech{
+    font-size: 40px;
+    
+}
+h1{
+    font-size: 40px;
+}
+
+#project{
+    font-size: 40px;
+}
+
+.imgportfolio{
+    width: 450px;
+    height: auto;
 }
